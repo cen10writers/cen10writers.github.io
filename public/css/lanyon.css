@@ -440,23 +440,11 @@ a.pagination-item:hover {
 .theme-base-08 .sidebar,
 .theme-base-08 .sidebar-toggle:active,
 .theme-base-08 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #ac4142;
+  background-color: #b21e35;
 }
 .theme-base-08 .container a,
 .theme-base-08 .sidebar-toggle,
 .theme-base-08 .related-posts li a:hover {
-  color: #ac4142;
-}
-
-/* Cen10 */
-.theme-base-c10 .sidebar,
-.theme-base-c10 .sidebar-toggle:active,
-.theme-base-c10 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #b21e35;
-}
-.theme-base-c10 .container a,
-.theme-base-c10 .sidebar-toggle,
-.theme-base-c10 .related-posts li a:hover {
   color: #b21e35;
 }
 
