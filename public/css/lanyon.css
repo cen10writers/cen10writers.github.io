@@ -448,6 +448,18 @@ a.pagination-item:hover {
   color: #ac4142;
 }
 
+/* Cen10 */
+.theme-base-c10 .sidebar,
+.theme-base-c10 .sidebar-toggle:active,
+.theme-base-c10 #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #b21e35;
+}
+.theme-base-c10 .container a,
+.theme-base-c10 .sidebar-toggle,
+.theme-base-c10 .related-posts li a:hover {
+  color: #b21e35;
+}
+
 /* Orange */
 .theme-base-09 .sidebar,
 .theme-base-09 .sidebar-toggle:active,
