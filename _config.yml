@@ -3,7 +3,7 @@ title:               Poems Blog (tm)
 tagline:             'CHS Web Whatever'
 description:         'Poems for Centennial'
 url:                 'https://kalkronline.github.io'
-baseurl:             '/posts'
+baseurl:             '/poems'
 paginate:            5
 permalink:           pretty
 
