@@ -1,15 +1,15 @@
 # Setup
-title:               Poems Blog (tm)
-tagline:             'CHS Web Whatever'
-description:         'Poems for Centennial'
-url:                 'https://kalkronline.github.io'
-baseurl:             '/poems'
+title:               Cen10 Writers
+tagline:             'Creative Writing @CHS'
+description:         'Poems for Patriots'
+url:                 'https://cen10writers.github.io/'
+baseurl:             '/'
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Kale Riley
+  name:              KR
   url:               http://kalkr.online
   email:             me@kalkr.online
 
