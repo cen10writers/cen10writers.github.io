@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2021-05-14
-title:Snowflake
+title: Snowflake
 author: Alyx Linder
 ---
 
